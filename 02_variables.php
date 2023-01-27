@@ -53,4 +53,6 @@ echo 10 / 2;
 define('HOST', 'localhost');
 define('USER', 'root');
 
+
 var_dump(HOST);
+echo USER;
